@@ -32,6 +32,13 @@ Type attribute value: `adobeanalytics`
 
 Adds support for Adobe Analytics. More details for adding Adobe Analytics support can be found at [marketing.adobe.com](https://marketing.adobe.com/resources/help/en_US/sc/implement/accelerated-mobile-pages.html).
 
+### SensorsData Analytics
+
+Type attribute value: `sensorsanalytics`
+
+Adds support for Sensors Analytics. More details for adding Sensors Analytics support can be found at [sensorsdata.com](https://manual.sensorsdata.cn/sa/latest/web-js-sdk-7548149.html).
+
+
 ### AFS Analytics
 
 Type attribute value: `afsanalytics`
